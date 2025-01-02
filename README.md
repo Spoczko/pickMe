@@ -2,7 +2,7 @@ pickMe
 
 Simple fancy color picker from your screen for you.
 
-Click the window than pick the color.
+Click the window and pick the color.
 Click the hashcode to copy to clipboard.
 
 
